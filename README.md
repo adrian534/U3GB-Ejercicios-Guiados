@@ -9,6 +9,7 @@
 | 1 | ejercicio swing | [📄 Abrir PDF](./uidad3ejercicioguiadoswing.pdf) |
 | 2 | Conceptos de arboles | [📄 Abrir PDF](./Arboles.pdf) |
 | 3 | nearpod de arboles | [📄 Abrir PDF](./nearpodArboles.pdf) |
+| 4 | nearpod de conjuntos | [📄 Abrir PDF](./Conjuntos.pdf) |
 
 
 ## JOEL ADRIAN CABALLERO LUGO 
