@@ -10,6 +10,7 @@
 | 2 | Conceptos de arboles | [📄 Abrir PDF](./Arboles.pdf) |
 | 3 | nearpod de arboles | [📄 Abrir PDF](./nearpodArboles.pdf) |
 | 4 | nearpod de conjuntos | [📄 Abrir PDF](./Conjuntos.pdf) |
+| 5 | nearpod de diccionario | [📄 Abrir PDF](./diccionario.pdf) |
 
 
 ## JOEL ADRIAN CABALLERO LUGO 
